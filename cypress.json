@@ -1,0 +1,12 @@
+{
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 30000,
+  "videoUploadOnPasses": false,
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  },
+
+  "viewportWidth": 1280,
+  "viewportHeight": 800
+}

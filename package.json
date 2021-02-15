@@ -1,0 +1,20 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "cypress e2e automation, test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "automation"
+  ],
+  "author": "cope automation",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.4.0",
+    "cypress-xpath": "^1.6.1"
+  }
+}
